@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: BLOGFLIX
+title: Arvind's Blog
 description: A blog maintained by Arvind Ramsankar
 tags:
   - blog
@@ -14,30 +14,34 @@ show_hero: true
 menu:
   - title: Home
     url: /
+    external: false
   - title: About
-    url: /about
+    url: https://r-arvind.netlify.com
+    external: true
   - title: Contact
-    url: /contact
+    url: https://r-arvind.netlify.com#contact
+    external: true
   - title: Feed
     url: /feed.xml
+    external: false
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: r-arvind
-facebook_username: facebook_username
-twitter_username: twitter_username
+facebook_username: arvind.ramsankar.1
+twitter_username: arvind_r99
 instagram_username: arvind__r
 linkedin_username: r-arvind
-medium_username: r-arvind
+# medium_username: r-arvind
 
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 # Advanced Settings
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
@@ -52,7 +56,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator

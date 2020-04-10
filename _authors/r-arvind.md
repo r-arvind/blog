@@ -6,10 +6,10 @@ display_name: Arvind Ramsankar
 position: Chief Editor
 bio: Just a developer.
 github_username: r-arvind
-facebook_username: r-arvind
-twitter_username: r-arvind
-instagram_username: r-arvind
+facebook_username: arvind.ramsankar.1
+twitter_username: arvind_r99
+instagram_username: arvind__r
 linkedin_username: r-arvind
-medium_username: r-arvind
+medium_username: r_arvind
 ---
 

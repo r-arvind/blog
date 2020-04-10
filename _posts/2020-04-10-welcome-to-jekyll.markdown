@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Arvind's Blog"
-subtitle: I'll be posting a lot of stuff about tech, art, music. SO stay tuned
+subtitle: I'll be posting a lot of stuff about tech, art, music. So stay tuned
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date:   2020-04-10 16:37:36 +0530
 categories: jekyll update
